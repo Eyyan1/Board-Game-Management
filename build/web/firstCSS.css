@@ -1,0 +1,114 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 22 May 2024, 10:12:02 pm
+    Author     : balqh
+*/
+
+        html, body {
+        height: 100%;
+        margin: 0;
+        font-family: Arial, sans-serif;
+        }
+
+        
+         .footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            margin-top: 20px;
+            background-color: rgb(0,0,0,0.9);
+            color: grey;
+            text-align: center;
+            padding: 10px;
+        }        
+
+        
+
+/********Request************/
+
+.request fieldset
+{
+    border-color: #f2f2f2;
+    border-radius: 10px;
+    margin: 0px 30px;
+
+}
+
+.request table
+{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.request .requestTable tr, td
+{
+    height: 30px;
+    width: 50px;
+    padding: 20px 0px;
+    border-radius: 8px;
+    background-color: #f2f2f2;
+}
+.request .requestTable th
+{
+    height: 30px;
+    width: 50px;
+    background-color: #ccc;
+    border-radius: 8px;
+    text-align: center;
+}
+.request .requestTable a
+{
+    padding: 5px 20px;
+    text-decoration: none;
+    background-color: lightgreen;
+    color: white;
+    border-radius: 8px;
+    margin:0px 2px;
+}
+.request .requestTable a:hover
+{
+    background-color: lightgrey;
+}
+.request .requestTable .del
+{
+    background-color: tomato;
+}
+.request input[type=button] ,.request button[type=submit] ,.request button[type=reset]
+{
+    padding: 10px 25px;
+    background-color: lightgreen;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+.request input[type=button]:hover
+{
+    background-color: lightgrey;
+}
+.request .btn
+{
+    margin-top: 20px;
+    margin-left:30px;
+}
+.request .note
+{
+    font-size: 13px;
+    margin-left:35px;
+}
+.request .note a
+{
+    font-weight: bold;
+    color: red;
+}
+.request .disabled 
+{
+    opacity: 0.5;
+    pointer-events: none;
+    cursor: default;
+}
+

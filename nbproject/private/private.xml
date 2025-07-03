@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/AdminDashboard.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/AdminRegistration.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/CustomerRegistration.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/CustomerRegistrationAdmin.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/ListCustomer.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/Login.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/LoginError.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/ProcessUpdateRequest.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/addBoard.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/addRequest.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/adminReservation.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/board.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/boardcust.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/customerDashboard.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/deleteRequest.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/error.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/firstCSS.css</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/index.html</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/processAddRequest.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/profile.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/reservation.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/return.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/success.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/updateRequest.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/web/viewReservation.jsp</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/src/java/com/DAO/CustomerDAO.java</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/src/java/com/DAO/AdminDAO.java</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/src/java/com/DAO/BoardDAO.java</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/src/java/com/DAO/ReservationDAO.java</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/src/java/com/Model/Admin.java</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/src/java/com/Model/Board.java</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/src/java/com/Model/Customer.java</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/src/java/com/Model/Reservation.java</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/src/java/com/WEB/ReservationServlet.java</file>
+            <file>file:/C:/Users/arifs/Downloads/BoardGamesManagementSystem/src/java/com/WEB/UserServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
